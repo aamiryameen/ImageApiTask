@@ -1,0 +1,6 @@
+module Pods_ImageApiTask_ImageApiTaskTests {
+  umbrella header "Pods-ImageApiTask-ImageApiTaskTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
